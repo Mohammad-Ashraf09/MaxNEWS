@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MaxNEWS/static/css/main.e6c13ad2.css",
+    "main.js": "/MaxNEWS/static/js/main.834afbd6.js",
+    "static/media/loading.gif": "/MaxNEWS/static/media/loading.6623bb8cccf685c7cf89.gif",
+    "index.html": "/MaxNEWS/index.html",
+    "main.e6c13ad2.css.map": "/MaxNEWS/static/css/main.e6c13ad2.css.map",
+    "main.834afbd6.js.map": "/MaxNEWS/static/js/main.834afbd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.834afbd6.js"
+  ]
+}
